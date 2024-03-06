@@ -4,6 +4,18 @@
 
 - [Vulnerability Management Lab](https://github.com/horeacio/Vulnerability-Management-Lab)
 
+<h2>Data Mining Projects</h2>
+
+- [AdaBoost Demonstration]
+
+- [Decision Tree Demonstration]
+
+- [K-Nearest Neighbors Demonstration]
+
+- [Naive Bayesian Classification Demonstration]
+
+- [Support Vector Machines Demonstration] 
+
 <h2>Certifications</h2>
 
 - [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/HoracioFlores-7110/7F3D4FA4866F267?sharingId=4CF89229D957894E)
