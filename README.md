@@ -2,7 +2,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- [Vulnerability Management Lab]
+- [Vulnerability Management Lab](https://github.com/horeacio/Vulnerability-Management-Lab)
 
 <h2>Certifications</h2>
 
