@@ -4,7 +4,7 @@
 
 - [Vulnerability Management Lab](https://github.com/horeacio/Vulnerability-Management-Lab)
 
-<h2>Data Mining Projects</h2>
+<h2>Data Mining Projects:</h2>
 
 - [AdaBoost Demonstration](https://github.com/horeacio/AdaBoost)
 
@@ -16,7 +16,7 @@
 
 - [Support Vector Machines Demonstration](https://github.com/horeacio/Support-Vector-Machines)
 
-<h2>Certifications</h2>
+<h2>Certifications:</h2>
 
 - [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/HoracioFlores-7110/7F3D4FA4866F267?sharingId=4CF89229D957894E)
 - [CompTIA Security+](https://www.credly.com/badges/a22c9e39-7c6f-4118-b8b0-21467946bf37/public_url)
