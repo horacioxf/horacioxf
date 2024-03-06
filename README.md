@@ -6,15 +6,15 @@
 
 <h2>Data Mining Projects</h2>
 
-- [AdaBoost Demonstration]
+- [AdaBoost Demonstration](https://github.com/horeacio/AdaBoost)
 
-- [Decision Tree Demonstration]
+- [Decision Tree Demonstration](https://github.com/horeacio/Decision-Tree)
 
-- [K-Nearest Neighbors Demonstration]
+- [K-Nearest Neighbors Demonstration](https://github.com/horeacio/K-Nearest-Neighbors)
 
-- [Naive Bayesian Classification Demonstration]
+- [Naive Bayesian Classification Demonstration](https://github.com/horeacio/Naive-Bayesian-Classification)
 
-- [Support Vector Machines Demonstration] 
+- [Support Vector Machines Demonstration](https://github.com/horeacio/Support-Vector-Machines)
 
 <h2>Certifications</h2>
 
