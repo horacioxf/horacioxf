@@ -1,5 +1,19 @@
-### Hi there 👋
+<h1>Hi there, I'm Horacio! 👋 </h1>
+Sam Houston University Graduate with a Bachelors of Science in Cybersecurity<br>
+Interested in Cloud Computing, Data Mining, Malware Analysis and Vulnerability Management<br>
+Looking for roles in Cloud/Cybersecurity Consulting, SOC Analyst, Cloud Engineering or IT
+<h2>Cybersecurity Projects:</h2>
 
+- [Vulnerability Management Lab]
+
+<h2>Certifications</h2>
+
+- [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/HoracioFlores-7110/7F3D4FA4866F267?sharingId=4CF89229D957894E)
+- [CompTIA Security+](https://www.credly.com/badges/a22c9e39-7c6f-4118-b8b0-21467946bf37/public_url)
+
+<h2>Connect with me:</h2>
+
+- [LinkedIn](www.linkedin.com/in/horacio-flores-19599121b)
 <!--
 **horeacio/horeacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
