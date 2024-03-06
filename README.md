@@ -1,7 +1,5 @@
 <h1>Hi there, I'm Horacio! 👋 </h1>
-Sam Houston University Graduate with a Bachelors of Science in Cybersecurity<br>
-Interested in Cloud Computing, Data Mining, Malware Analysis and Vulnerability Management<br>
-Looking for roles in Cloud/Cybersecurity Consulting, SOC Analyst, Cloud Engineering or IT
+
 <h2>Cybersecurity Projects:</h2>
 
 - [Vulnerability Management Lab]
