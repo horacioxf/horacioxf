@@ -1,8 +1,8 @@
 <h1>Hi there, I'm Horacio! 👋 </h1>
 
-<h2>Cybersecurity Projects:</h2>
+<!-- <h2>Cybersecurity Projects:</h2>
 
-- [Vulnerability Management Lab](https://github.com/horeacio/Vulnerability-Management-Lab)
+- [Vulnerability Management Lab](https://github.com/horeacio/Vulnerability-Management-Lab) -->
 
 <h2>Data Mining Projects:</h2>
 
