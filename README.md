@@ -1,5 +1,6 @@
 <h1>Hi there, I'm Horacio! 👋 </h1>
-
+I'm a cybersecurity enthusiast with a background in the retail/warehouse industry with experience in customer service.</br>
+Interested in SOC Analyst and other blue team related roles. 
 <h2>Cybersecurity Projects:</h2>
 
 - [Azure-Honeypot](https://github.com/horeacio/Azure-Honeypot)
