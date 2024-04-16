@@ -1,9 +1,9 @@
 <h1>Hi there, I'm Horacio! 👋 </h1>
 
-<!-- <h2>Cybersecurity Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
-- [Vulnerability Management Lab](https://github.com/horeacio/Vulnerability-Management-Lab) -->
-
+- [Azure-Honeypot](https://github.com/horeacio/Azure-Honeypot)
+  
 <h2>Data Mining Projects:</h2>
 
 - [AdaBoost Demonstration](https://github.com/horeacio/AdaBoost)
