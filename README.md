@@ -4,6 +4,7 @@ Interested in SOC Analyst, Identity Management, and other blue team related role
 <h2>Cybersecurity Projects:</h2>
 
 - [Azure-Honeypot](https://github.com/horeacio/Azure-Honeypot)
+- [Elastick-Stack-SIEM](https://github.com/horeacio/Elastic-Stack-SIEM)
   
 <h2>Data Mining Projects:</h2>
 
