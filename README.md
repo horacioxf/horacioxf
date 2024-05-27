@@ -1,12 +1,12 @@
 <h1>Hi there, I'm Horacio! 👋 </h1>
 I'm a cybersecurity enthusiast with a background in the retail/warehouse industry and experience in customer service.</br>
 Interested in SOC Analyst, Identity Management, and other blue team related roles. 
-<h2>Cybersecurity Projects:</h2>
+<h2>Projects:</h2>
 
 - [Azure-Honeypot](https://github.com/horeacio/Azure-Honeypot)
 - [Elastick-Stack-SIEM](https://github.com/horeacio/Elastic-Stack-SIEM)
   
-<h2>Data Mining Projects:</h2>
+<!--<h2>Data Mining Projects:</h2>
 
 - [AdaBoost Demonstration](https://github.com/horeacio/AdaBoost)
 
@@ -17,7 +17,7 @@ Interested in SOC Analyst, Identity Management, and other blue team related role
 - [Naive Bayesian Classification Demonstration](https://github.com/horeacio/Naive-Bayesian-Classification)
 
 - [Support Vector Machines Demonstration](https://github.com/horeacio/Support-Vector-Machines)
-
+-->
 <h2>Certifications:</h2>
 
 - [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/HoracioFlores-7110/7F3D4FA4866F267?sharingId=4CF89229D957894E)
