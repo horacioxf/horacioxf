@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Horacio! 👋 </h1>
 I'm a cybersecurity enthusiast with a background in the retail/warehouse industry and experience in customer service.</br>
 Interested in SOC Analyst, Identity Management, and other blue team related roles. 
-<h2>Projects:</h2>
+<h2>Cybersecurity Projects:</h2>
 
 - [Azure-Honeypot](https://github.com/horeacio/Azure-Honeypot)
 - [Elastick-Stack-SIEM](https://github.com/horeacio/Elastic-Stack-SIEM)
