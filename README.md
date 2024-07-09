@@ -21,8 +21,10 @@ Interested in SOC Analyst, Identity Management, and other blue team related role
 
 <h2>Certifications:</h2>
 
-- [AZ-900](https://learn.microsoft.com/api/credentials/share/en-us/HoracioFlores-7110/7F3D4FA4866F267?sharingId=4CF89229D957894E)
-- [CompTIA Security+](https://www.credly.com/badges/a22c9e39-7c6f-4118-b8b0-21467946bf37/public_url)
+- AZ-900
+- CompTIA Security+
+- ICS-100
+- Qualys VMDR
 
 <h2>Connect with me:</h2>
 
