@@ -3,9 +3,7 @@ I'm a passionate cybersecurity enthusiast with a background in the retail/wareho
 Interested in SOC Analyst and IAM Roles.
 <h2>Cybersecurity Projects:</h2>
 
-- [Azure-Honeypot](https://github.com/horeacio/Azure-Honeypot)
 - [Azure-SOC](https://github.com/horacioxf/Azure-SOC)
-- [Elastick-Stack-SIEM](https://github.com/horeacio/Elastic-Stack-SIEM)
   
 <h2>Data Mining Projects:</h2>
 
