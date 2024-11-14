@@ -1,6 +1,7 @@
 <h1>Hi there, I'm Horacio! 👋 </h1>
-I'm a passionate cybersecurity enthusiast with a background in the retail/warehouse industry and experience in customer service.</br>
-Interested in SOC Analyst and IAM Roles.
+ I am a detail-oriented cybersecurity professional with 4 years of experience in cybersecurity and 5 years of experience in customer service, with interests in Security Operations and Cloud Security. I specialize in using tools like Microsoft Sentinel and Azure for threat detection and cloud management, with additional network and cloud security skills. </br>
+ 
+I am seeking opportunities for entry-level roles as a SOC Analyst, IAM Specialist, or Cloud Security Support Engineer.
 <h2>Cybersecurity Projects:</h2>
 
 - [Azure-SOC](https://github.com/horacioxf/Azure-SOC)
