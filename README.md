@@ -3,7 +3,7 @@
 
 - [Azure-SOC](https://github.com/horacioxf/Azure-SOC)
   
-<h2>Data Mining Projects:</h2>
+<!-- <h2>Data Mining Projects:</h2>
 
 - [AdaBoost Demonstration](https://github.com/horeacio/AdaBoost)
 
@@ -14,7 +14,7 @@
 - [Naive Bayesian Classification Demonstration](https://github.com/horeacio/Naive-Bayesian-Classification)
 
 - [Support Vector Machines Demonstration](https://github.com/horeacio/Support-Vector-Machines)
-
+-->
 <h2>Certifications:</h2>
 
 - AZ-900
