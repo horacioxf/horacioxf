@@ -21,6 +21,7 @@
 - CompTIA Security+
 - ICS-100
 - Qualys VMDR
+- ISC2 CC
 
 <h2>Connect with me:</h2>
 
