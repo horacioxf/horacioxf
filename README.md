@@ -1,7 +1,7 @@
 
 <h2>Cybersecurity Projects:</h2>
 
-- [Azure-SOC](https://github.com/horacioxf/Azure-SOC)
+- [Azure-SIEM](https://github.com/horacioxf/Azure-SIEM)
   
 <!-- <h2>Data Mining Projects:</h2>
 
