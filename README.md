@@ -1,4 +1,3 @@
-
 <h2>Cybersecurity Projects:</h2>
 
 - [Azure-SIEM](https://github.com/horacioxf/Azure-SIEM)
