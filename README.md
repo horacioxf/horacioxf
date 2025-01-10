@@ -26,7 +26,8 @@
 <h2>Connect with me:</h2>
 
 - [LinkedIn](www.linkedin.com/in/horacio-flores-19599121b)
-- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3992233" style='border:none;'></iframe>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3992233" style='border:none;'></iframe>
+
 <!--
 **horeacio/horeacio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
