@@ -11,11 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🔭 I'm currently working on redoing my Azure SIEM project to improve the documentation and Vulnerability Management project, which includes Metasploitable and OWASP Broken Web App.
+
 -->
 Hello, my name is Horacio!
 
 - :nerd_face: I'm a cybersecurity grad student at WGU.
-- 🔭 I'm currently working on redoing my Azure SIEM project to improve the documentation and Vulnerability Management project, which includes Metasploitable and OWASP Broken Web App.
 - 🌱 I'm currently learning Security Operations (CompTIA CySA+) for school and CCNA in my free time.
 - 📫 You can reach me through my linkedin.
 
