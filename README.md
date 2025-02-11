@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hello, my name is Horacio!
 
 - :nerd_face: I'm a cybersecurity grad student at WGU.
-- 🌱 I'm currently learning Security Operations (CompTIA CySA+) for school and CCNA in my free time.
+- 🌱 I'm currently working on HackTheBox's SOC Analyst role path and a Vulnerability Management Project using Tenable.
 - 📫 You can reach me through my linkedin.
 
 <h2>Cybersecurity Projects:</h2>
@@ -38,11 +38,14 @@ Hello, my name is Horacio!
 -->
 <h2>Certifications:</h2>
 
-- AZ-900
-- CompTIA Security+
 - ICS-100
 - Qualys VMDR
 - ISC2 CC
+- AZ-900
+- CompTIA Security+
+- CompTIA CySA+
+
+
 
 <h2>Connect with me:</h2>
 
