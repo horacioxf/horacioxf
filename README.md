@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 Hello, my name is Horacio!
 
 - :nerd_face: I'm a cybersecurity grad student at WGU.
-- 🌱 I'm currently working on HackTheBox's SOC Analyst role path and a Vulnerability Management Project using Tenable.
+- 🌱 I'm currently learning Web Dev and Pentesting.
 - 📫 You can reach me through my linkedin.
 
 <h2>Cybersecurity Projects:</h2>
 
-- [Azure-SIEM](https://github.com/horacioxf/Azure-SIEM)
+- [Azure-SOC-Homelab](https://github.com/horacioxf/Azure-SIEM)
   
 <!-- <h2>Data Mining Projects:</h2>
 
