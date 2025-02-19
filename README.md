@@ -16,10 +16,8 @@ Here are some ideas to get you started:
 -->
 Hello, my name is Horacio!
 
-- :nerd_face: I'm a cybersecurity grad student at WGU.
-- 🌱 I'm currently learning Web Dev and Pentesting.
-- 📫 You can reach me through my linkedin.
-
+I'm a cybersecurity graduate student at WGU with over half a decade of experience in customer service and cybersecurity.
+ 
 <h2>Cybersecurity Projects:</h2>
 
 - [Azure-SOC-Homelab](https://github.com/horacioxf/Azure-SOC-Homelab)
