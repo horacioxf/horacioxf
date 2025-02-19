@@ -22,7 +22,7 @@ Hello, my name is Horacio!
 
 <h2>Cybersecurity Projects:</h2>
 
-- [Azure-SOC-Homelab](https://github.com/horacioxf/Azure-SIEM)
+- [Azure-SOC-Homelab](https://github.com/horacioxf/Azure-SOC-Homelab)
   
 <!-- <h2>Data Mining Projects:</h2>
 
