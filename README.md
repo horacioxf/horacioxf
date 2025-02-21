@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 🔭 I'm currently working on redoing my Azure SIEM project to improve the documentation and Vulnerability Management project, which includes Metasploitable and OWASP Broken Web App.
 
 -->
 Hello, my name is Horacio!
 
 I'm a cybersecurity graduate student at WGU with over half a decade of experience in customer service and cybersecurity.
- 
+I'm working on my Azure SOC & Honeynet home lab that monitors actual attacks so I can perform threat hunting and incident response, as well as a Malware Analysis home lab provided by the book Practical Malware Analysis.  
+
 <h2>Cybersecurity Projects:</h2>
 
 - [Azure-SOC-Homelab](https://github.com/horacioxf/Azure-SOC-Homelab)
