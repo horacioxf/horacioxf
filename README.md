@@ -13,14 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-Hello, my name is Horacio!
+<h1>Cybersecurity Portfolio</h1>
 
-I'm a cybersecurity graduate student at WGU with over half a decade of experience in customer service and cybersecurity.
-I'm working on my Azure SOC & Honeynet home lab that monitors actual attacks so I can perform threat hunting and incident response, as well as a Malware Analysis home lab provided by the book Practical Malware Analysis.  
+I'm a cybersecurity graduate student with over half a decade of experience in customer service and cybersecurity.
+I have interests and experience in blue teaming, red teaming, and cloud security. Check out my projects below!
 
 <h2>Cybersecurity Projects:</h2>
 
-- [Azure-SOC-Homelab](https://github.com/horacioxf/Azure-SOC-Homelab)
+- **[Azure-SOC-Homelab](https://github.com/horacioxf/Azure-SOC-Homelab)**
+
+- **[Vulnerability Management Program Implementation]**
+<!-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]**
+- **[Threat Hunting Scenario (Tor Browser Usage)]**
   
 <!-- <h2>Data Mining Projects:</h2>
 
@@ -47,6 +51,7 @@ I'm working on my Azure SOC & Honeynet home lab that monitors actual attacks so 
 
 <h2>Connect with me:</h2>
 
-- [LinkedIn](www.linkedin.com/in/horacio-flores-19599121b)
+[<img align="left" alt="Horacio | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- [linkedIn](www.linkedin.com/in/horacio-flores-19599121b)
 
 
