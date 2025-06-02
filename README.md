@@ -7,7 +7,7 @@ Check out my projects below!
 
 <h2>Cybersecurity Projects:</h2>
 
-- **[Azure-SOC-Homelab](https://github.com/horacioxf/Azure-SOC-Homelab)**
+- **[Azure SOC Homelab](https://github.com/horacioxf/Azure-SOC-Homelab)**
 
 - **[Vulnerability Management Program Implementation](https://github.com/horacioxf/Vulnerability-Management-with-Tenable)**
 <!-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]**
