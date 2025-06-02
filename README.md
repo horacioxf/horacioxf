@@ -9,7 +9,7 @@ Check out my projects below!
 
 - **[Azure-SOC-Homelab](https://github.com/horacioxf/Azure-SOC-Homelab)**
 
-- **[Vulnerability Management Program Implementation](https://github.com/horacioxf/Vulnerability-Management-Program-Implementation)**
+- **[Vulnerability Management Program Implementation](https://github.com/horacioxf/Vulnerability-Management-with-Tenable)**
 <!-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]**
 - **[Threat Hunting Scenario (Tor Browser Usage)]**
   
