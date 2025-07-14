@@ -1,7 +1,6 @@
 <h1>Cybersecurity Portfolio</h1>
 
-I'm a cybersecurity graduate student with over half a decade of experience in customer service and cybersecurity.
-I have experience in alert triaging, digital forensics, malware analysis, incident response, penetration testing, network security, and cloud security. 
+I'm a cybersecurity graduate student with experience in alert triaging, digital forensics, malware analysis, incident response, penetration testing, network security, and cloud security. 
 
 Check out my projects below!
 
