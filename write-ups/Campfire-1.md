@@ -35,9 +35,9 @@ Filtering for Event ID 4104 (This Event ID is for PowerShell script block loggin
 Answer: powerview.ps1
 
 <h2>Question 5</h2>
-When was this script executed?
+When was this script executed? </br>
 
-<img width="665" height="547" alt="image" src="https://github.com/user-attachments/assets/af11de09-98bd-444e-ba40-141ca3b98beb" />
+</br> <img width="665" height="547" alt="image" src="https://github.com/user-attachments/assets/af11de09-98bd-444e-ba40-141ca3b98beb" />
 
 Answer: 2024-05-21
 
