@@ -45,7 +45,7 @@
 ---
 
 ## Related Queries:
-\`\`\`kql
+```kql
 // Detect malicious .xpi downloads
 DeviceFileEvents
 | where FileName endswith ".xpi"
@@ -76,7 +76,7 @@ DeviceFileEvents
 | where FileName endswith ".pdf"
 | where FolderPath contains "Downloads"
 | where InitiatingProcessFileName =~ "firefox.exe"
-\`\`\`
+```
 
 ---
 
