@@ -3,11 +3,6 @@
 
 ---
 
-## Reason for Hunt
-**Cybersecurity News Alert** – A recent report from a reputable threat intelligence feed warned about a malicious Firefox extension masquerading as a productivity tool (“PDF Converter Pro”) being used to exfiltrate clipboard data and browser-stored credentials to attacker-controlled servers.
-
----
-
 ## Steps the "Bad Actor" took to Create Logs and IoCs:
 1. Open Firefox and navigate to the malicious add-on download page:  
    `https://malicious-addons.example/fakepdfconverter.xpi`
