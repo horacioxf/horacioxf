@@ -81,8 +81,8 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: ChatGPT Security Labs
-- **Author Contact**: N/A  
+- **Author Name**: Horacio Flores
+- **Author Contact**: [https://www.linkedin.com/in/horacioxf/](https://www.linkedin.com/in/horacioxf/)  
 - **Date**: August 9, 2025
 
 ## Validated By:
@@ -101,4 +101,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**            | **Date**         | **Modified By**            |
 |-------------|------------------------|------------------|----------------------------|
-| 1.0         | Initial draft           | `August 9, 2025` | `ChatGPT Security Labs`    |
+| 1.0         | Initial draft           | `August 9, 2025` | `Horacio Flores`    |
