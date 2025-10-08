@@ -32,6 +32,7 @@ Check out my projects below!
 - AZ-900
 - CompTIA Security+
 - CompTIA CySA+
+- CompTIA PenTest+
 
 <hr/>
 
