@@ -143,6 +143,24 @@ Relevant MITRE ATT&CK TTPs:
 
 ## Response Taken
 
-The information was communicated with the employee’s manager, including everything with the archives being created at regular intervals via the powershell script. There didn’t appear to be any evidence of exfiltration. 
+Upon identifying the unauthorized PowerShell activity and data archiving behavior, immediate containment and mitigation actions were implemented:
+
+- Isolated the affected device (windows-target-1) from the network to prevent potential data exfiltration or lateral movement.
+
+- Removed malicious artifacts, including the exfiltratedata.ps1 script and the created ZIP archive.
+
+- Uninstalled 7-Zip and verified no additional unauthorized tools were present.
+
+- Revoked John Doe’s administrative privileges and reset his account credentials.
+
+- Conducted a full MDE scan and memory inspection to confirm no persistence or secondary payloads existed.
+
+- Implemented PowerShell restrictions, enabling Constrained Language Mode and monitoring for ExecutionPolicy Bypass usage.
+
+- Enhanced application control policies through AppLocker/WDAC to prevent unapproved software installations.
+
+- Updated user awareness training on acceptable system use and insider threat behaviors.
+
+These actions successfully contained the incident, eliminated the threat vector, and strengthened preventive controls to reduce the likelihood of future similar activity.
 
 ---
