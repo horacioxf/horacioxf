@@ -10,7 +10,7 @@ Check out my projects below!
 - **[Vulnerability Management Program Implementation](https://github.com/horacioxf/Vulnerability-Management-with-Tenable)**
 - **[Automated Vulnerability Remediations with PowerShell and BASH](https://github.com/horacioxf/Automated-Remediation)**
 - **[Threat Hunting Scenario (Unauthorized Tor Browser Usage)](https://github.com/horacioxf/Threat-Hunting-Scenario-Tor)**
-- **[Threat Hunting Scenarios](https://github.com/horacioxf/horacioxf/tree/main/Threat%20Hunting)** 
+- **[Threat Hunting Scenarios](https://github.com/horacioxf/horacioxf/tree/main/Threat%20Hunting)**
 <!-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]**
   
 <!-- <h2>Data Mining Projects:</h2>
