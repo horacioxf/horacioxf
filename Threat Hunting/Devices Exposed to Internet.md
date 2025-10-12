@@ -9,7 +9,7 @@
 
 During routine maintenance, the security team was tasked with investigating VMs in the shared services cluster (handling DNS, Domain Services, DHCP, etc.) that may have been mistakenly exposed to the public internet. Management is concerned about brute-force login attempts against these devices since some older systems lack account lockout policies. The goal is to detect brute-force activity, determine whether any attempts succeeded, and assess the potential impact.
 
-### High-Level TOR-Related IoC Discovery Plan
+### High-Level IoC Discovery Plan
 
 - **Check `DeviceInfo`** to confirm which VMs were internet-facing.
 - **Check `DeviceLogonEvents`** for any login attemps.
