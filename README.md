@@ -1,6 +1,8 @@
 <h1>Cybersecurity Portfolio</h1>
 
-Cybersecurity Professional with experience in DFIR, Network Security, and Cloud Security. 
+<a href="https://www.linkedin.com/in/horacio-flores-dfir"> <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+
+Cybersecurity professional with experience in DFIR and cloud security in Microsoft Azure. This repository documents my journey and the continued growth of my skills as a cybersecurity analyst.
 
 Check out my projects below!
 
@@ -28,20 +30,18 @@ Check out my projects below!
 -->
 <h2>Certifications:</h2>
 
-- ICS-100
-- Qualys VMDR
-- ISC2 CC
-- AZ-900
-- CompTIA Security+
-- CompTIA CySA+
-- CompTIA PenTest+
+<div>
+<img src="https://img.shields.io/badge/-ISC2%20CC-0066A1?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-AZ--900-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-C8202F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CySA%2B-1E3A5F?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-PenTest%2B-6A1B9A?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  
+</div>
 
 <hr/>
 
-<h2>Connect with me:</h2>
-<a href="https://linkedin.com/in/horacio-flores-19599121b" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="40" alt="LinkedIn">
-</a>
+
 
 
 <!--
