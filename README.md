@@ -11,7 +11,7 @@ Check out my projects below!
 - **[Azure SOC Homelab](https://github.com/horacioxf/Azure-SOC-Homelab)**
 - **[Vulnerability Management Program Implementation](https://github.com/horacioxf/Vulnerability-Management-with-Tenable)**
 - **[Automated Vulnerability Remediations with PowerShell and BASH](https://github.com/horacioxf/Automated-Remediation)**
-- **[Threat Hunting Scenario (Unauthorized Tor Browser Usage)](https://github.com/horacioxf/Threat-Hunting-Scenario-Tor)**
+- **[Unauthorized TOR Usage]([https://github.com/horacioxf/Threat-Hunting-Scenario-Tor)](https://github.com/horacioxf/Threat-Hunting-Scenario-Tor)**
 - **[Threat Hunting Scenarios](https://github.com/horacioxf/horacioxf/tree/main/Threat%20Hunting)**
 - **[Linux Escalation of Privileges and Data Exfiltration Threat Hunting Scenario](https://github.com/horacioxf/Linux-Escalation-of-Privileges-and-Data-Exfiltration)**
 - **[Active Directory Project](https://github.com/horacioxf/AD-Project/blob/main/README.md)**
