@@ -6,6 +6,21 @@ Cybersecurity professional with experience in DFIR and cloud security in Microso
 
 Check out my projects below!
 
+<h2>Skills:</h2>
+
+| Skill                                              | Associated Project |
+|-----------------------------------------------------|---------------------|
+| Active Directory Deployment & Domain Administration  | <a href="https://github.com/horacioxf/AD-Project/blob/main/README.md">AD Detection Lab</a> |
+| SIEM Integration and Log Analysis (Splunk)            | <a href="https://github.com/horacioxf/AD-Project/blob/main/README.md">AD Detection Lab</a> |
+| Cloud Security Architecture (Azure)                   | <a href="https://github.com/horacioxf/Azure-SOC-Homelab/blob/main/README.md">Azure SOC + Honeynet</a> |
+| SIEM Implementation with Microsoft Sentinel            | <a href="https://github.com/horacioxf/Azure-SOC-Homelab/blob/main/README.md">Azure SOC + Honeynet</a> |
+| Vulnerability Management (Tenable)                     | <a href="https://github.com/horacioxf/Vulnerability-Management-with-Tenable/blob/main/README.md">Vulnerability Management Program</a> |
+| Remediation Scripting (PowerShell)                     | <a href="https://github.com/horacioxf/Vulnerability-Management-with-Tenable/blob/main/README.md">Vulnerability Management Program</a> |
+| Threat Hunting with KQL                                | <a href="https://github.com/horacioxf/Threat-Hunting-Scenario-Tor/blob/main/README.md">TOR Threat Hunt</a> |
+| Endpoint Detection and Response (Microsoft Defender)    | <a href="https://github.com/horacioxf/Threat-Hunting-Scenario-Tor/blob/main/README.md">TOR Threat Hunt</a> |
+| Linux Log Analysis and Incident Investigation           | <a href="https://github.com/horacioxf/Linux-Escalation-of-Privileges-and-Data-Exfiltration/blob/main/README.md">Linux Privilege Escalation & Data Exfiltration</a> |
+| Insider Threat Detection and Data Exfiltration Analysis | <a href="https://github.com/horacioxf/Linux-Escalation-of-Privileges-and-Data-Exfiltration/blob/main/README.md">Linux Privilege Escalation & Data Exfiltration</a> |
+
 <h2>Cybersecurity Projects:</h2>
 
 - **[Azure SOC Homelab](https://github.com/horacioxf/Azure-SOC-Homelab)**
