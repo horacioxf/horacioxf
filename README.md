@@ -8,18 +8,13 @@ Check out my projects below!
 
 <h2>Skills:</h2>
 
-| Skill                                              | Associated Project |
-|-----------------------------------------------------|---------------------|
-| Active Directory Deployment & Domain Administration  | <a href="https://github.com/horacioxf/AD-Project/blob/main/README.md">Active Directory Project</a> |
-| SIEM Integration and Log Analysis with Splunk           | <a href="https://github.com/horacioxf/AD-Project/blob/main/README.md">Active Directory Project</a> |
-| Cloud Security Architecture with Azure                   | <a href="https://github.com/horacioxf/Azure-SOC-Homelab/blob/main/README.md">Azure SOC Homelab</a> |
-| SIEM Implementation with Microsoft Sentinel            | <a href="https://github.com/horacioxf/Azure-SOC-Homelab/blob/main/README.md">Azure SOC Homelab</a> |
-| Vulnerability Management with Tenable                   | <a href="https://github.com/horacioxf/Vulnerability-Management-with-Tenable/blob/main/README.md">Vulnerability Management Program</a> |
-| Remediation Scripting with PowerShell                     | <a href="https://github.com/horacioxf/Vulnerability-Management-with-Tenable/blob/main/README.md">Vulnerability Management Program</a> |
-| Threat Hunting with KQL                                | <a href="https://github.com/horacioxf/Threat-Hunting-Scenario-Tor/blob/main/README.md">TOR Threat Hunt</a> |
-| Endpoint Detection and Response with Microsoft Defender for Endpoint    | <a href="https://github.com/horacioxf/Threat-Hunting-Scenario-Tor/blob/main/README.md">TOR Threat Hunt</a> |
-| Linux Log Analysis and Incident Investigation           | <a href="https://github.com/horacioxf/Linux-Escalation-of-Privileges-and-Data-Exfiltration/blob/main/README.md">Linux Privilege Escalation & Data Exfiltration</a> |
-| Insider Threat Detection and Data Exfiltration Analysis | <a href="https://github.com/horacioxf/Linux-Escalation-of-Privileges-and-Data-Exfiltration/blob/main/README.md">Linux Privilege Escalation & Data Exfiltration</a> |
+| Skill                                       | Associated Project |
+|-----------------------------------------------|---------------------|
+| Active Directory & SIEM Log Analysis (Splunk) | <a href="https://github.com/horacioxf/AD-Project/blob/main/README.md">Active Directory Project</a> |
+| Cloud SOC Architecture & Sentinel (Azure)      | <a href="https://github.com/horacioxf/Azure-SOC-Homelab/blob/main/README.md">Azure SOC Homelab</a> |
+| Vulnerability Management & Remediation (Tenable) | <a href="https://github.com/horacioxf/Vulnerability-Management-with-Tenable/blob/main/README.md">Vulnerability Management Program</a> |
+| Threat Hunting & EDR (KQL, Microsoft Defender) | <a href="https://github.com/horacioxf/Threat-Hunting-Scenario-Tor/blob/main/README.md">Unauthorized TOR Usage</a> |
+| Linux Log Analysis & Insider Threat Detection  | <a href="https://github.com/horacioxf/Linux-Escalation-of-Privileges-and-Data-Exfiltration/blob/main/README.md">Linux Privilege Escalation & Data Exfiltration</a> |
 
 <h2>Cybersecurity Projects:</h2>
 
