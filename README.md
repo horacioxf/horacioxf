@@ -14,6 +14,7 @@ Check out my projects below!
 - **[Threat Hunting Scenario (Unauthorized Tor Browser Usage)](https://github.com/horacioxf/Threat-Hunting-Scenario-Tor)**
 - **[Threat Hunting Scenarios](https://github.com/horacioxf/horacioxf/tree/main/Threat%20Hunting)**
 - **[Linux Escalation of Privileges and Data Exfiltration Threat Hunting Scenario](https://github.com/horacioxf/Linux-Escalation-of-Privileges-and-Data-Exfiltration)**
+- **[Active Directory Project](https://github.com/horacioxf/AD-Project/blob/main/README.md)**
 <!-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)]**
   
 <!-- <h2>Data Mining Projects:</h2>
